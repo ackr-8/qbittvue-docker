@@ -1,3 +1,5 @@
+## Qbittorrent with VueJS WebUI all packed into a small docker container
+
 #### Environment:
 
 | Environment | Default value |
@@ -43,3 +45,12 @@
             - UID=1000
             - GID=1000
       restart: always
+
+##### Not ready for production yet
+
+### Credits   
+
+
+[qBittorrent](https://github.com/qbittorrent/qBittorrent)
+
+[VueTorrent](https://github.com/WDaan/VueTorrent)
